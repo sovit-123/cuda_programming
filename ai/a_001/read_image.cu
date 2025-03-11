@@ -1,6 +1,6 @@
 /**
 This program reads an image using OpenCV, transfers the image matrix to CUDA,
-invets the colors, and then transfers back to the host.
+inverts the colors, and then transfers back to the host.
 
 USAGE: 
 */
